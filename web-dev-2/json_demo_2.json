@@ -1,0 +1,9 @@
+{
+    "innerObj": {
+        "someValue": null
+    },
+    "anotherInnerObj": {
+        "innerInnerObj": {}
+    },
+    "message": "娘，这是毛语法！"
+}
